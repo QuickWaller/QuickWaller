@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Will Smith — Firmware to cloud infra.">
-</picture>
+# Will Smith
+
+Software engineer — firmware to cloud infra.
 
 Full-time at an Auckland MSP since February 2026, shipping production
 software and operating live infrastructure. The rest is independently
